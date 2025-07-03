@@ -4,7 +4,7 @@
 
 
 
-# ML Classification Project for CSGO Game Winner Prediction
+# ML Multiclass Classification Project for CSGO Game Winner Prediction
 
 ## A. Objective
 Build a machine learning model to perform **Multiclass classification** based on a real dataset from Kaggle. Project done in python on jupyter notebook.
