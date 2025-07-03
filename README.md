@@ -33,6 +33,29 @@ Build a machine learning model to perform **Multiclass classification** based on
 6. **Model Deployment** : not included
 
 ## C. Report File extracted by ydata_profiling
+![image](https://github.com/user-attachments/assets/6abc3a4b-5953-47b0-a254-d02f8f764915)
+![image](https://github.com/user-attachments/assets/e89c6901-953c-498f-acd6-a56a99f40f39)
+![image](https://github.com/user-attachments/assets/2f719b4d-b550-4685-be32-16f2831d7431)
+![image](https://github.com/user-attachments/assets/8711af48-c86b-4f99-afd9-fd3229d0ade4)
+![image](https://github.com/user-attachments/assets/6229c6cf-d533-49a9-90f9-2b11deb5e832)
+![image](https://github.com/user-attachments/assets/e9082918-ed31-4f08-b399-0ee6672f9042
+![image](https://github.com/user-attachments/assets/7fcc9add-a78d-4eba-acbb-fd3727c8d49b)
+![image](https://github.com/user-attachments/assets/9f2317ad-6543-42b2-b806-6cecf5f94ca1)
+![image](https://github.com/user-attachments/assets/b1f409c9-487c-4c91-a772-bd41d2a159d7)
+![image](https://github.com/user-attachments/assets/1bbc7e42-880f-4cd9-b02f-c610e9a0239c)
+![image](https://github.com/user-attachments/assets/dfdf33af-6452-4af1-8386-a80d0282ad96)
+![image](https://github.com/user-attachments/assets/11affb03-eafd-4f5b-8abf-9c705f36b586)
+![image](https://github.com/user-attachments/assets/bfb0e627-1f6f-4dba-b682-c3e89e503087)
+![image](https://github.com/user-attachments/assets/6d939a29-e012-4e98-b2cb-f14b8018224f)
+![image](https://github.com/user-attachments/assets/9a150875-15af-4ea2-a419-6a0392f1aed6)
+![image](https://github.com/user-attachments/assets/f3ee9cb9-1f5d-4944-91dd-8d58681c3fcb)
+
+
+
+
+
+
+
 
 ## D. The file summarizing the prediction models includes the Accuracy, F1 score and Time Taken parameters and prediction execution time based on this dataset. 
 
