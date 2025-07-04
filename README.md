@@ -80,11 +80,7 @@ Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` repres
 
 
 
-
-
-
-
-## C. The file summarizing the prediction models includes the Accuracy, F1 score and Time Taken parameters and prediction execution time based on this dataset. 
+# C. The file summarizing the prediction models includes the Accuracy, F1 score and Time Taken parameters and prediction execution time based on this dataset. 
 
 #### C.1. This list of trained models sorted by fast execution time and high Balanced-Accuracy parameter
 
@@ -97,7 +93,7 @@ Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` repres
 ![image](https://github.com/user-attachments/assets/e31e2bb1-91cd-4ded-bbaf-db1e5963f925)
 
 
-## D. Results
+# D. Results
 - All models were trained and evaluated to identify the best-performing one for this multiclass classification task.
 - Reusability on other datasets thanks to calling the pickle library to store the models.
 
