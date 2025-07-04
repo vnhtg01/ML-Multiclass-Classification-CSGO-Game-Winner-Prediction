@@ -6,8 +6,9 @@
 <h4><u>Objective :</u></h4> 
 Build a machine learning model to perform <b>Multiclass classification</b> based on a real dataset from Kaggle. Project done in python on jupyter notebook.
 
-#### Objective : Build a machine learning model to perform **Multiclass classification** based on a real dataset from Kaggle. Project done in python on jupyter notebook.
-#### Notes : Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` represents *Win*.
+<h4><u>Notes :</u></h4> 
+
+Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` represents *Win*.
 
 # Table of Contents
 
@@ -23,8 +24,6 @@ Build a machine learning model to perform <b>Multiclass classification</b> based
   - [D.1. Models sorted by speed and accuracy](#d1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-a-parameter)
   - [D.2. Accuracy, ROC AUC, F1 Score](#d2-quickly-check-other-models-through-accuracy-roc-auc-f1-score)
 - [E. Results](#e-results)
-
-
 
 
 
