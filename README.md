@@ -20,10 +20,10 @@ Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` repres
   - [A.6. Model Evaluation](#6-model-evaluation)
   - [A.7. Model Deployment](#7-model-deployment--not-included)
 - [B. Report File extracted by ydata-profiling](#breport-file-extracted-by-ydata-profiling)
-- [D. Prediction Model Summary](#d-the-file-summarizing-the-prediction-models-includes-the-accuracy-f1-score-and-time-taken-parameters-and-prediction-execution-time-based-on-this-dataset)
-  - [D.1. Models sorted by speed and accuracy](#d1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-a-parameter)
-  - [D.2. Accuracy, ROC AUC, F1 Score](#d2-quickly-check-other-models-through-accuracy-roc-auc-f1-score)
-- [E. Results](#e-results)
+- [C. Prediction Model Summary](#d-the-file-summarizing-the-prediction-models-includes-the-accuracy-f1-score-and-time-taken-parameters-and-prediction-execution-time-based-on-this-dataset)
+  - [C.1. Models sorted by speed and accuracy](#d1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-a-parameter)
+  - [C.2. Accuracy, ROC AUC, F1 Score](#d2-quickly-check-other-models-through-accuracy-roc-auc-f1-score)
+- [D. Results](#e-results)
 
 
 
@@ -84,20 +84,20 @@ Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` repres
 
 
 
-## D. The file summarizing the prediction models includes the Accuracy, F1 score and Time Taken parameters and prediction execution time based on this dataset. 
+## C. The file summarizing the prediction models includes the Accuracy, F1 score and Time Taken parameters and prediction execution time based on this dataset. 
 
-#### D.1. This list of trained models sorted by fast execution time and high A-parameter
+#### C.1. This list of trained models sorted by fast execution time and high A-parameter
 
 ![image](https://github.com/user-attachments/assets/a82fa6a4-4ea2-42ad-ae53-740dc1bb0cde)
 
 
 
-#### D.2. Quickly check other models through Accuracy, ROC AUC, F1 Score
+#### C.2. Quickly check other models through Accuracy, ROC AUC, F1 Score
 
 ![image](https://github.com/user-attachments/assets/e31e2bb1-91cd-4ded-bbaf-db1e5963f925)
 
 
-## E. Results
+## D. Results
 - All models were trained and evaluated to identify the best-performing one for this multiclass classification task.
 - Reusability on other datasets thanks to calling the pickle library to store the models.
 
