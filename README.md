@@ -28,7 +28,7 @@ Table of contents
 
 
 A. Pipeline Overview
-============
+=====
 
 1. **Data Import** : from Kaggle
 2. **Exploratory Data Analysis (EDA) & Data Visualization**  
@@ -59,7 +59,7 @@ A. Pipeline Overview
 7. **Model Deployment** : not included
 
 B.Report-File-extracted-by-ydata-profiling
-============
+=====
 
 ![image](https://github.com/user-attachments/assets/6abc3a4b-5953-47b0-a254-d02f8f764915)
 ![image](https://github.com/user-attachments/assets/e89c6901-953c-498f-acd6-a56a99f40f39)
