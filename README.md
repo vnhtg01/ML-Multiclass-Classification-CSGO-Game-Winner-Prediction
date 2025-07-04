@@ -1,34 +1,30 @@
 
 ![image](https://github.com/user-attachments/assets/392f1ae5-83e5-4502-975a-053949bda7c2)
+
+## 📚 Table of Contents
+
+- [ML Multiclass Classification Project for CSGO Game Winner Prediction](#ml-multiclass-classification-project-for-csgo-game-winner-prediction)
+- [A. Pipeline Overview](#apipeline-overview)
+  - [1. Data Import](#1-data-import--from-kaggle)
+  - [2. Exploratory Data Analysis (EDA) & Data Visualization](#2-exploratory-data-analysis-eda--data-visualization)
+  - [3. Data Preprocessing](#3-data-preprocessing)
+  - [5. Model Training](#5-model-training)
+  - [6. Model Evaluation](#6-model-evaluation)
+  - [7. Model Deployment](#7-model-deployment--not-included)
+- [B. Report File extracted by ydata-profiling](#breport-file-extracted-by-ydata-profiling)
+- [D. Prediction Model Summary](#d-the-file-summarizing-the-prediction-models-includes-the-accuracy-f1-score-and-time-taken-parameters-and-prediction-execution-time-based-on-this-dataset)
+  - [D.1. Models sorted by speed and accuracy](#d1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-a-parameter)
+  - [D.2. Accuracy, ROC AUC, F1 Score](#d2-quickly-check-other-models-through-accuracy-roc-auc-f1-score)
+- [E. Results](#e-results)
+
+
 # ML Multiclass Classification Project for CSGO Game Winner Prediction
 #### Objective : Build a machine learning model to perform **Multiclass classification** based on a real dataset from Kaggle. Project done in python on jupyter notebook.
 #### Notes : Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` represents *Win*.
 
 
-Table of contents
-=================
+# A.Pipeline-Overview
 
-<!--ts-->
-   * [A. Pipeline Overview](#A.Pipeline-Overview)
-   * [B. Report File extracted by ydata_profiling](#B.Report-File-extracted-by-ydata-profiling)
-      * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-      * [TOC generation with Github Actions](#toc-generation-with-github-actions)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-   * [Docker](#docker)
-     * [Local](#local)
-     * [Public](#public)
-<!--te-->
-
-
-A.Pipeline-Overview
-=====
 
 1. **Data Import** : from Kaggle
 2. **Exploratory Data Analysis (EDA) & Data Visualization**  
@@ -58,8 +54,7 @@ A.Pipeline-Overview
    - (Bonus) Quickly check other models
 7. **Model Deployment** : not included
 
-B.Report-File-extracted-by-ydata-profiling
-=====
+# B.Report-File-extracted-by-ydata-profiling
 
 ![image](https://github.com/user-attachments/assets/6abc3a4b-5953-47b0-a254-d02f8f764915)
 ![image](https://github.com/user-attachments/assets/e89c6901-953c-498f-acd6-a56a99f40f39)
