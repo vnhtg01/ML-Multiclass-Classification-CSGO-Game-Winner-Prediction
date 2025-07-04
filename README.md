@@ -3,18 +3,21 @@
 
 <h1 align="center">ML Multiclass Classification Project for CSGO Game Winner Prediction</h1>
 
+<h4><u>Objective :</u></h4> 
+Build a machine learning model to perform <b>Multiclass classification</b> based on a real dataset from Kaggle. Project done in python on jupyter notebook.
+
 #### Objective : Build a machine learning model to perform **Multiclass classification** based on a real dataset from Kaggle. Project done in python on jupyter notebook.
 #### Notes : Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` represents *Win*.
 
 # Table of Contents
 
 - [A. Pipeline Overview](#apipeline-overview)
-  - [1. Data Import](#1-data-import--from-kaggle)
-  - [2. Exploratory Data Analysis (EDA) & Data Visualization](#2-exploratory-data-analysis-eda--data-visualization)
-  - [3. Data Preprocessing](#3-data-preprocessing)
-  - [5. Model Training](#5-model-training)
-  - [6. Model Evaluation](#6-model-evaluation)
-  - [7. Model Deployment](#7-model-deployment--not-included)
+  - [A.1. Data Import](#1-data-import--from-kaggle)
+  - [A.2. Exploratory Data Analysis (EDA) & Data Visualization](#2-exploratory-data-analysis-eda--data-visualization)
+  - [A.3. Data Preprocessing](#3-data-preprocessing)
+  - [A.5. Model Training](#5-model-training)
+  - [A.6. Model Evaluation](#6-model-evaluation)
+  - [A.7. Model Deployment](#7-model-deployment--not-included)
 - [B. Report File extracted by ydata-profiling](#breport-file-extracted-by-ydata-profiling)
 - [D. Prediction Model Summary](#d-the-file-summarizing-the-prediction-models-includes-the-accuracy-f1-score-and-time-taken-parameters-and-prediction-execution-time-based-on-this-dataset)
   - [D.1. Models sorted by speed and accuracy](#d1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-a-parameter)
