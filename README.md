@@ -27,7 +27,7 @@ Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` repres
 
 
 
-# A.Pipeline-Overview
+# A. Pipeline-Overview
 
 1. **Data Import** : from Kaggle
 2. **Exploratory Data Analysis (EDA) & Data Visualization**  
