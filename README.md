@@ -1,16 +1,35 @@
 
 ![image](https://github.com/user-attachments/assets/392f1ae5-83e5-4502-975a-053949bda7c2)
-
-
-
-
 # ML Multiclass Classification Project for CSGO Game Winner Prediction
-
-## A. Objective
-Build a machine learning model to perform **Multiclass classification** based on a real dataset from Kaggle. Project done in python on jupyter notebook.
+#### Objective : Build a machine learning model to perform **Multiclass classification** based on a real dataset from Kaggle. Project done in python on jupyter notebook.
 #### Notes : Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` represents *Win*.
 
-## B. Pipeline Overview
+
+Table of contents
+=================
+
+<!--ts-->
+   * [A. Pipeline Overview](#A.Pipeline-Overview)
+   * [Usage](#usage)
+      * [STDIN](#stdin)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+      * [Auto insert and update TOC](#auto-insert-and-update-toc)
+      * [GitHub token](#github-token)
+      * [TOC generation with Github Actions](#toc-generation-with-github-actions)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+   * [Docker](#docker)
+     * [Local](#local)
+     * [Public](#public)
+<!--te-->
+
+
+A. Pipeline Overview
+============
+
 1. **Data Import** : from Kaggle
 2. **Exploratory Data Analysis (EDA) & Data Visualization**  
    - Check for missing values
