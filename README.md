@@ -20,10 +20,10 @@ Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` repres
   - [A.6. Model Evaluation](#6-model-evaluation)
   - [A.7. Model Deployment](#7-model-deployment--not-included)
 - [B. Report File extracted by ydata-profiling](#breport-file-extracted-by-ydata-profiling)
-- [C. Prediction Model Summary](#d-the-file-summarizing-the-prediction-models-includes-the-accuracy-f1-score-and-time-taken-parameters-and-prediction-execution-time-based-on-this-dataset)
-  - [C.1. Models sorted by speed and accuracy](#d1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-a-parameter)
-  - [C.2. Accuracy, ROC AUC, F1 Score](#d2-quickly-check-other-models-through-accuracy-roc-auc-f1-score)
-- [D. Results](#e-results)
+- [C. Prediction Model Summary](#c-the-file-summarizing-the-prediction-models-includes-the-accuracy-f1-score-and-time-taken-parameters-and-prediction-execution-time-based-on-this-dataset)
+  - [C.1. Models sorted by speed and accuracy](#c1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-a-parameter)
+  - [C.2. Accuracy, ROC AUC, F1 Score](#c2-quickly-check-other-models-through-accuracy-roc-auc-f1-score)
+- [D. Results](#d-results)
 
 
 
