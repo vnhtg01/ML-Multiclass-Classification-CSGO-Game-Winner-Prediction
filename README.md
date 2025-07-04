@@ -10,7 +10,7 @@ Table of contents
 
 <!--ts-->
    * [A. Pipeline Overview](#A.Pipeline-Overview)
-   * [B. Report File extracted by ydata_profiling](#Report-File-extracted-by-ydata-profiling)
+   * [B. Report File extracted by ydata_profiling](#B.Report-File-extracted-by-ydata-profiling)
       * [STDIN](#stdin)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
@@ -58,7 +58,7 @@ A. Pipeline Overview
    - (Bonus) Quickly check other models
 7. **Model Deployment** : not included
 
-B. Report File extracted by ydata_profiling
+B.Report-File-extracted-by-ydata-profiling
 ============
 
 ![image](https://github.com/user-attachments/assets/6abc3a4b-5953-47b0-a254-d02f8f764915)
