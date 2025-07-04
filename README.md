@@ -1,7 +1,8 @@
 
 ![image](https://github.com/user-attachments/assets/392f1ae5-83e5-4502-975a-053949bda7c2)
 
-# ML Multiclass Classification Project for CSGO Game Winner Prediction
+<h1 align="center">ML Multiclass Classification Project for CSGO Game Winner Prediction</h1>
+
 #### Objective : Build a machine learning model to perform **Multiclass classification** based on a real dataset from Kaggle. Project done in python on jupyter notebook.
 #### Notes : Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` represents *Win*.
 
