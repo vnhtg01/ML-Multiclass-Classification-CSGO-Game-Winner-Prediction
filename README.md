@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/392f1ae5-83e5-4502-975a-053949bda7c2)
+<img width="1100" height="300" alt="image" src="https://github.com/user-attachments/assets/080d2a9e-2501-4f2e-b8b4-bc93c170e79b" />
 
 <h1 align="center">ML Multiclass Classification Project for CSGO Game Winner Prediction</h1>
 
@@ -22,7 +22,7 @@ Class `0` represents *Lost*, class `1` represents *Tie (Draw)*, class `2` repres
 - [B. Report File extracted by ydata-profiling](#breport-file-extracted-by-ydata-profiling)
 - [C. Prediction Model Summary](#c-the-file-summarizing-the-prediction-models-includes-the-accuracy-f1-score-and-time-taken-parameters-and-prediction-execution-time-based-on-this-dataset)
   - [C.1. Models sorted by speed and accuracy](#c1-this-list-of-trained-models-sorted-by-fast-execution-time-and-high-balanced-accuracy-parameter)
-  - [C.2. Accuracy, ROC AUC, F1 Score](#c2-quickly-check-other-models-through-accuracy-roc-auc-f1-score)
+  - [C.2. Quickly check other models](#c2-quickly-check-other-models-through-accuracy-roc-auc-f1-score)
 - [D. Results](#d-results)
 
 
